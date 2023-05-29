@@ -1,4 +1,4 @@
-package seminar_2;
+package homme_work.hom_1;
 
 import java.util.ArrayList;
 import java.util.List;

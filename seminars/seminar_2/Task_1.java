@@ -1,4 +1,5 @@
-package seminar_2;
+package seminars.seminar_2;
+
 
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;

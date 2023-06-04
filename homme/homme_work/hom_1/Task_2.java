@@ -1,4 +1,4 @@
-package homme_work.hom_1;
+package homme.homme_work.hom_1;
 
 import java.util.ArrayList;
 import java.util.List;

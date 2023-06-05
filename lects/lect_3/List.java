@@ -71,7 +71,7 @@ public class List {
     public Node find(int value) {
         Node currentNode = head;
         while (currentNode != null) {
-            if (currentNode.value = value) {
+            if (currentNode.value == value) {
                 return currentNode;
             }
             currentNode = currentNode.next;
